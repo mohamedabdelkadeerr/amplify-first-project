@@ -1,0 +1,32 @@
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.butt {
+    margin-bottom: 30px;
+}
+
+.image img {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    border: 3px solid #007bff;
+    border-radius: 10px;
+}
+.data {
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #071831;
+}
+.butt button {
+    margin: 10px;
+    width: 150px;
+    height: 50px;
+    font-size: 18px;
+    background-color: black;
+}
+.butt button:hover {
+    transform: scale(1.05);
+    transition: 0.2s;
+}
